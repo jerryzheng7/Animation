@@ -1,1 +1,1 @@
-# EC602Animation
+# Signals Animation
